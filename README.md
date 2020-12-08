@@ -1,5 +1,5 @@
 # Object Initialization Lab
-
+Hi! 
 ## Objectives
 
 1. Define a class with a custom initialize routine.
